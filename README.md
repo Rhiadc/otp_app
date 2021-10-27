@@ -1,6 +1,6 @@
 # OtpApp
 
-**TODO: Add description**
+**Simple elixir application for testing OTP and it's Erlang libs**
 
 ## Installation
 
